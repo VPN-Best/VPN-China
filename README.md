@@ -21,7 +21,6 @@ FJCloud是以极低的优惠价格提供BGP隧道中转与IPLC国际专线的高
 ⭐在线客服快速回复，问题处理效率高。  
 
 ### FJCloud机场测速：   
-![test-2.jpg](https://s2.loli.net/2023/10/23/PInvNuRmdgBaWKh.jpg)
 
 9.9元/月的套餐订阅观看YouTube 4K视频测速的结果总体来看，这个VPN加速器的速度和稳定性非常出色，完全可以解锁奈飞NetFlix/HULU/HBO/TVB/动画疯等国外流媒体视频。
 
