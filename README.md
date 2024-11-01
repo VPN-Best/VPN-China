@@ -60,7 +60,7 @@ XXFeng 网络加速器全部采用CN2/BGP隧道中转和IPLC内网专线。支�
 
 XXFeng梯子的套餐灵活，满足各类需求；拥有100+稳定节点，全部为CN2中继节点；提供香港、台湾、日本、美国、新加坡和韩国节点；最高速率达到千兆，满足大部分需求；可解锁NETFLIX/TVB/ABEMATV等流媒体；可供多人共享；支持支付宝/微信支付。
 
-**以上是[优质高速稳定SS/SSR/Trojan/V2Ray机场](https://musescore.org/zh-hans/node/369944)的评测结果和推荐列表。希望能对大家选择机场提供一些帮助和参考。**
+**以上是[优质高速稳定SS/SSR/Trojan/V2Ray机场](https://github.com/Tecnono/Best-VPN-01/issues/4)的评测结果和推荐列表。希望能对大家选择机场提供一些帮助和参考。**
 
 🌈🌈🌈🌈🌈🌈  
 #### [点击传送1号梯子「月租11元」](https://go.1vpn.cc/ewan)
